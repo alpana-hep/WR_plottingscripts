@@ -1,0 +1,188 @@
+[
+  {
+    "histname": "mass_fourobject_wr_ee_resolved_sr",
+    "histname1": "mass_fourobject_wr_resolved_flavor_cr",
+      "hdir_str" : "wr_ee_resolved_sr",  
+    "hdir_cr_str": "wr_resolved_flavor_cr",
+    "op_str": "TTbar",
+    "xaxis_title": "m_{eejj} [GeV]"
+  },
+    {
+    "histname": "pt_leading_lepton_wr_ee_resolved_sr",
+    "histname1": "pt_leading_lepton_wr_resolved_flavor_cr",
+    "hdir_str" : "wr_ee_resolved_sr",
+    "hdir_cr_str": "wr_resolved_flavor_cr",
+    "op_str": "TTbar",
+    "xaxis_title": "p_{T}^{lead l} [GeV]"
+    },
+     {
+    "histname": "eta_leading_lepton_wr_ee_resolved_sr",
+    "histname1": "eta_leading_lepton_wr_resolved_flavor_cr",
+    "hdir_str" : "wr_ee_resolved_sr",
+    "hdir_cr_str": "wr_resolved_flavor_cr",
+    "op_str": "TTbar",
+    "xaxis_title": "#eta^{lead l}"
+    },
+  {
+    "histname": "phi_leading_lepton_wr_ee_resolved_sr",
+    "histname1": "phi_leading_lepton_wr_resolved_flavor_cr",
+    "hdir_str" : "wr_ee_resolved_sr",
+    "hdir_cr_str": "wr_resolved_flavor_cr",
+    "op_str": "TTbar",
+    "xaxis_title": "#phi^{lead l}"
+    },
+
+     {
+    "histname": "pt_subleading_lepton_wr_ee_resolved_sr",
+    "histname1": "pt_subleading_lepton_wr_resolved_flavor_cr",
+    "hdir_str" : "wr_ee_resolved_sr",
+    "hdir_cr_str": "wr_resolved_flavor_cr",
+    "op_str": "TTbar",
+    "xaxis_title": "p_{T}^{sublead l} [GeV]"
+    },
+     {
+    "histname": "eta_subleading_lepton_wr_ee_resolved_sr",
+    "histname1": "eta_subleading_lepton_wr_resolved_flavor_cr",
+    "hdir_str" : "wr_ee_resolved_sr",
+    "hdir_cr_str": "wr_resolved_flavor_cr",
+    "op_str": "TTbar",
+    "xaxis_title": "#eta^{sublead l}"
+    },
+  {
+    "histname": "phi_subleading_lepton_wr_ee_resolved_sr",
+    "histname1": "phi_subleading_lepton_wr_resolved_flavor_cr",
+    "hdir_str" : "wr_ee_resolved_sr",
+    "hdir_cr_str": "wr_resolved_flavor_cr",
+    "op_str": "TTbar",
+    "xaxis_title": "#phi^{sublead l}"
+    },
+
+     {
+    "histname": "pt_leading_jet_wr_ee_resolved_sr",
+    "histname1": "pt_leading_jet_wr_resolved_flavor_cr",
+    "hdir_str" : "wr_ee_resolved_sr",
+    "hdir_cr_str": "wr_resolved_flavor_cr",
+    "op_str": "TTbar",
+    "xaxis_title": "p_{T}^{lead jet} [GeV]"
+    },
+     {
+    "histname": "eta_leading_jet_wr_ee_resolved_sr",
+    "histname1": "eta_leading_jet_wr_resolved_flavor_cr",
+    "hdir_str" : "wr_ee_resolved_sr",
+    "hdir_cr_str": "wr_resolved_flavor_cr",
+    "op_str": "TTbar",
+    "xaxis_title": "#eta^{lead jet}"
+    },
+  {
+    "histname": "phi_leading_jet_wr_ee_resolved_sr",
+    "histname1": "phi_leading_jet_wr_resolved_flavor_cr",
+    "hdir_str" : "wr_ee_resolved_sr",
+    "hdir_cr_str": "wr_resolved_flavor_cr",
+    "op_str": "TTbar",
+    "xaxis_title": "#phi^{lead jet}"
+    },
+
+ {
+    "histname": "pt_subleading_jet_wr_ee_resolved_sr",
+    "histname1": "pt_subleading_jet_wr_resolved_flavor_cr",
+    "hdir_str" : "wr_ee_resolved_sr",
+    "hdir_cr_str": "wr_resolved_flavor_cr",
+    "op_str": "TTbar",
+    "xaxis_title": "p_{T}^{sublead jet} [GeV]"
+    },
+     {
+    "histname": "eta_subleading_jet_wr_ee_resolved_sr",
+    "histname1": "eta_subleading_jet_wr_resolved_flavor_cr",
+    "hdir_str" : "wr_ee_resolved_sr",
+    "hdir_cr_str": "wr_resolved_flavor_cr",
+    "op_str": "TTbar",
+    "xaxis_title": "#eta^{sublead jet}"
+    },
+  {
+    "histname": "phi_subleading_jet_wr_ee_resolved_sr",
+    "histname1": "phi_subleading_jet_wr_resolved_flavor_cr",
+    "hdir_str" : "wr_ee_resolved_sr",
+    "hdir_cr_str": "wr_resolved_flavor_cr",
+    "op_str": "TTbar",
+    "xaxis_title": "#phi^{sublead jet}"
+  },
+     {
+    "histname": "mass_dilepton_wr_ee_resolved_sr",
+    "histname1": "mass_dilepton_wr_resolved_flavor_cr",
+    "hdir_str" : "wr_ee_resolved_sr",
+    "hdir_cr_str": "wr_resolved_flavor_cr",
+    "op_str": "TTbar",
+    "xaxis_title": "M_{ee} [GeV]"
+     },
+     {
+    "histname": "pt_dilepton_wr_ee_resolved_sr",
+    "histname1": "pt_dilepton_wr_resolved_flavor_cr",
+    "hdir_str" : "wr_ee_resolved_sr",
+    "hdir_cr_str": "wr_resolved_flavor_cr",
+    "op_str": "TTbar",
+    "xaxis_title": "p_{T}^{ee} [GeV]"
+     },
+
+     {
+    "histname": "mass_dijet_wr_ee_resolved_sr",
+    "histname1": "mass_dijet_wr_resolved_flavor_cr",
+    "hdir_str" : "wr_ee_resolved_sr",
+    "hdir_cr_str": "wr_resolved_flavor_cr",
+    "op_str": "TTbar",
+    "xaxis_title": "M_{jj} [GeV]"
+     },
+     {
+    "histname": "pt_dijet_wr_ee_resolved_sr",
+    "histname1": "pt_dijet_wr_resolved_flavor_cr",
+    "hdir_str" : "wr_ee_resolved_sr",
+    "hdir_cr_str": "wr_resolved_flavor_cr",
+    "op_str": "TTbar",
+    "xaxis_title": "p_{T}^{jj} [GeV]"
+     },
+
+      {
+    "histname": "mass_threeobject_leadlep_wr_ee_resolved_sr",
+    "histname1": "mass_threeobject_leadlep_wr_resolved_flavor_cr",
+    "hdir_str" : "wr_ee_resolved_sr",
+    "hdir_cr_str": "wr_resolved_flavor_cr",
+    "op_str": "TTbar",
+    "xaxis_title": "M_{ljj} [GeV]"
+     },
+     {
+    "histname": "pt_threeobject_leadlep_wr_ee_resolved_sr",
+    "histname1": "pt_threeobject_leadlep_wr_resolved_flavor_cr",
+    "hdir_str" : "wr_ee_resolved_sr",
+    "hdir_cr_str": "wr_resolved_flavor_cr",
+    "op_str": "TTbar",
+    "xaxis_title": "p_{T}^{ljj} [GeV]"
+     },
+
+        {
+    "histname": "mass_threeobject_subleadlep_wr_ee_resolved_sr",
+    "histname1": "mass_threeobject_subleadlep_wr_resolved_flavor_cr",
+    "hdir_str" : "wr_ee_resolved_sr",
+    "hdir_cr_str": "wr_resolved_flavor_cr",
+    "op_str": "TTbar",
+    "xaxis_title": "M_{ljj} [GeV]"
+     },
+     {
+    "histname": "pt_threeobject_subleadlep_wr_ee_resolved_sr",
+    "histname1": "pt_threeobject_subleadlep_wr_resolved_flavor_cr",
+    "hdir_str" : "wr_ee_resolved_sr",
+    "hdir_cr_str": "wr_resolved_flavor_cr",
+    "op_str": "TTbar",
+    "xaxis_title": "p_{T}^{ljj} [GeV]"
+     },
+
+     {
+    "histname": "pt_fourobject_wr_ee_resolved_sr",
+    "histname1": "pt_fourobject_wr_resolved_flavor_cr",
+    "hdir_str" : "wr_ee_resolved_sr",
+    "hdir_cr_str": "wr_resolved_flavor_cr",
+    "op_str": "TTbar",
+    "xaxis_title": "p_{T}^{eejj} [GeV]"
+     }
+
+
+
+]

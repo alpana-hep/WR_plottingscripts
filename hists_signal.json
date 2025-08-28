@@ -1,0 +1,145 @@
+[
+  {
+    "histname": "mass_fourobject_wr_ee_resolved_sr",
+      "hdir_str" : "wr_ee_resolved_sr",  
+    "op_str": "Signal",
+    "xaxis_title": "m_{eejj} [GeV]"
+  },
+  {
+    "histname": "pt_fourobject_wr_ee_resolved_sr",
+      "hdir_str" : "wr_ee_resolved_sr",
+    "op_str": "Signal",
+    "xaxis_title": "pT_{eejj} [GeV]"
+  },
+ {
+    "histname": "mass_threeobject_leadlep_wr_ee_resolved_sr",
+      "hdir_str" : "wr_ee_resolved_sr",
+    "op_str": "Signal",
+    "xaxis_title": "m_{ejj} [GeV]"
+ },
+    {
+	"histname": "pt_threeobject_leadlep_wr_ee_resolved_sr",
+	"hdir_str" : "wr_ee_resolved_sr",
+	"op_str": "Signal",
+	"xaxis_title": "pT_{ejj} [GeV]"
+  },
+
+
+    {
+	"histname": "mass_threeobject_subleadlep_wr_ee_resolved_sr",
+	"hdir_str" : "wr_ee_resolved_sr",
+	"op_str": "Signal",
+	"xaxis_title": "m_{ejj} [GeV]"
+    },
+    {
+        "histname": "pt_threeobject_subleadlep_wr_ee_resolved_sr",
+        "hdir_str" : "wr_ee_resolved_sr",
+        "op_str": "Signal",
+        "xaxis_title": "pT_{ejj} [GeV]"
+    },
+
+ {
+    "histname": "mass_dijet_wr_ee_resolved_sr",
+      "hdir_str" : "wr_ee_resolved_sr",
+    "op_str": "Signal",
+    "xaxis_title": "m_{jj} [GeV]"
+ },
+    {
+        "histname": "pt_dijet_wr_ee_resolved_sr",
+        "hdir_str" : "wr_ee_resolved_sr",
+        "op_str": "Signal",
+        "xaxis_title": "pT_{jj} [GeV]"
+  },
+   
+{
+    "histname": "mass_dilepton_wr_ee_resolved_sr",
+      "hdir_str" : "wr_ee_resolved_sr",
+    "op_str": "Signal",
+    "xaxis_title": "m_{ll} [GeV]"
+ },
+    {
+        "histname": "pt_dilepton_wr_ee_resolved_sr",
+        "hdir_str" : "wr_ee_resolved_sr",
+        "op_str": "Signal",
+        "xaxis_title": "pT_{ll} [GeV]"
+    },
+
+    {
+     	"histname": "pt_leading_lepton_wr_ee_resolved_sr",
+	"hdir_str" : "wr_ee_resolved_sr",
+	"op_str": "Signal",
+	"xaxis_title": "pT_{lead e} [GeV]"
+    },
+    {
+        "histname": "eta_leading_lepton_wr_ee_resolved_sr",
+	"hdir_str" : "wr_ee_resolved_sr",
+	"op_str": "Signal",
+	"xaxis_title": "#eta_{lead e}"
+    },
+
+    {
+        "histname": "phi_leading_lepton_wr_ee_resolved_sr",
+	"hdir_str" : "wr_ee_resolved_sr",
+	"op_str": "Signal",
+	"xaxis_title": "#phi_{lead e} [GeV]"
+    },
+    {
+        "histname": "pt_subleading_lepton_wr_ee_resolved_sr",
+        "hdir_str" : "wr_ee_resolved_sr",
+        "op_str": "Signal",
+        "xaxis_title": "pT_{sublead e} [GeV]"
+    },
+    {
+        "histname": "eta_subleading_lepton_wr_ee_resolved_sr",
+        "hdir_str" : "wr_ee_resolved_sr",
+        "op_str": "Signal",
+        "xaxis_title": "#eta_{sublead e}"
+    },
+
+    {
+        "histname": "phi_subleading_lepton_wr_ee_resolved_sr",
+	"hdir_str" : "wr_ee_resolved_sr",
+        "op_str": "Signal",
+	"xaxis_title": "#phi_{sublead e} [GeV]"
+    },
+    {
+        "histname": "pt_leading_jet_wr_ee_resolved_sr",
+        "hdir_str" : "wr_ee_resolved_sr",
+        "op_str": "Signal",
+        "xaxis_title": "pT_{lead jet} [GeV]"
+    },
+    {
+        "histname": "eta_leading_jet_wr_ee_resolved_sr",
+        "hdir_str" : "wr_ee_resolved_sr",
+        "op_str": "Signal",
+        "xaxis_title": "#eta_{lead jet}"
+    },
+
+    {
+        "histname": "phi_leading_jet_wr_ee_resolved_sr",
+	"hdir_str" : "wr_ee_resolved_sr",
+        "op_str": "Signal",
+	"xaxis_title": "#phi_{lead jet} [GeV]"
+    },
+
+     {
+        "histname": "pt_subleading_jet_wr_ee_resolved_sr",
+        "hdir_str" : "wr_ee_resolved_sr",
+        "op_str": "Signal",
+        "xaxis_title": "pT_{sublead jet} [GeV]"
+    },
+    {
+        "histname": "eta_subleading_jet_wr_ee_resolved_sr",
+        "hdir_str" : "wr_ee_resolved_sr",
+        "op_str": "Signal",
+        "xaxis_title": "#eta_{sublead jet}"
+    },
+
+    {
+        "histname": "phi_subleading_jet_wr_ee_resolved_sr",
+        "hdir_str" : "wr_ee_resolved_sr",
+        "op_str": "Signal",
+        "xaxis_title": "#phi_{sublead jet} [GeV]"
+    }
+
+]
